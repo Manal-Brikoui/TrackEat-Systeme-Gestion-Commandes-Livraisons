@@ -47,7 +47,7 @@ public class EmailService {
         try {
             send(
                     toEmail,
-                    "Nouvelle notification - Delivery App",
+                    "Nouvelle notification - TrackEat",
                     "Bonjour " + fullName + ",\n\n" +
                             message +
                             "\n\nL'équipe TrackEat "
